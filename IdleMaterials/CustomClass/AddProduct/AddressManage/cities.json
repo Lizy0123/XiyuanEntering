@@ -1,0 +1,2168 @@
+[
+  {
+    "CityID" : 1,
+    "CityName" : "北京市",
+    "CitySort" : 1,
+    "ProID" : 1
+  },
+  {
+    "CityID" : 2,
+    "CityName" : "天津市",
+    "CitySort" : 2,
+    "ProID" : 2
+  },
+  {
+    "CityID" : 3,
+    "CityName" : "上海市",
+    "CitySort" : 3,
+    "ProID" : 9
+  },
+  {
+    "CityID" : 4,
+    "CityName" : "重庆市",
+    "CitySort" : 4,
+    "ProID" : 27
+  },
+  {
+    "CityID" : 5,
+    "CityName" : "邯郸市",
+    "CitySort" : 5,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 6,
+    "CityName" : "石家庄市",
+    "CitySort" : 6,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 7,
+    "CityName" : "保定市",
+    "CitySort" : 7,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 8,
+    "CityName" : "张家口市",
+    "CitySort" : 8,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 9,
+    "CityName" : "承德市",
+    "CitySort" : 9,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 10,
+    "CityName" : "唐山市",
+    "CitySort" : 10,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 11,
+    "CityName" : "廊坊市",
+    "CitySort" : 11,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 12,
+    "CityName" : "沧州市",
+    "CitySort" : 12,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 13,
+    "CityName" : "衡水市",
+    "CitySort" : 13,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 14,
+    "CityName" : "邢台市",
+    "CitySort" : 14,
+    "ProID" : 3
+  },
+  {
+    "CityID" : 16,
+    "CityName" : "朔州市",
+    "CitySort" : 16,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 17,
+    "CityName" : "忻州市",
+    "CitySort" : 17,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 18,
+    "CityName" : "太原市",
+    "CitySort" : 18,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 19,
+    "CityName" : "大同市",
+    "CitySort" : 19,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 20,
+    "CityName" : "阳泉市",
+    "CitySort" : 20,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 21,
+    "CityName" : "晋中市",
+    "CitySort" : 21,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 22,
+    "CityName" : "长治市",
+    "CitySort" : 22,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 23,
+    "CityName" : "晋城市",
+    "CitySort" : 23,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 24,
+    "CityName" : "临汾市",
+    "CitySort" : 24,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 25,
+    "CityName" : "吕梁市",
+    "CitySort" : 25,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 26,
+    "CityName" : "运城市",
+    "CitySort" : 26,
+    "ProID" : 4
+  },
+  {
+    "CityID" : 27,
+    "CityName" : "沈阳市",
+    "CitySort" : 27,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 28,
+    "CityName" : "铁岭市",
+    "CitySort" : 28,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 29,
+    "CityName" : "大连市",
+    "CitySort" : 29,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 30,
+    "CityName" : "鞍山市",
+    "CitySort" : 30,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 31,
+    "CityName" : "抚顺市",
+    "CitySort" : 31,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 32,
+    "CityName" : "本溪市",
+    "CitySort" : 32,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 33,
+    "CityName" : "丹东市",
+    "CitySort" : 33,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 34,
+    "CityName" : "锦州市",
+    "CitySort" : 34,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 35,
+    "CityName" : "营口市",
+    "CitySort" : 35,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 36,
+    "CityName" : "阜新市",
+    "CitySort" : 36,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 37,
+    "CityName" : "辽阳市",
+    "CitySort" : 37,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 38,
+    "CityName" : "朝阳市",
+    "CitySort" : 38,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 39,
+    "CityName" : "盘锦市",
+    "CitySort" : 39,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 40,
+    "CityName" : "葫芦岛市",
+    "CitySort" : 40,
+    "ProID" : 6
+  },
+  {
+    "CityID" : 41,
+    "CityName" : "长春市",
+    "CitySort" : 41,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 42,
+    "CityName" : "吉林市",
+    "CitySort" : 42,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 43,
+    "CityName" : "延边朝鲜族自治州",
+    "CitySort" : 43,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 44,
+    "CityName" : "四平市",
+    "CitySort" : 44,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 45,
+    "CityName" : "通化市",
+    "CitySort" : 45,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 46,
+    "CityName" : "白城市",
+    "CitySort" : 46,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 47,
+    "CityName" : "辽源市",
+    "CitySort" : 47,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 48,
+    "CityName" : "松原市",
+    "CitySort" : 48,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 49,
+    "CityName" : "白山市",
+    "CitySort" : 49,
+    "ProID" : 7
+  },
+  {
+    "CityID" : 50,
+    "CityName" : "哈尔滨市",
+    "CitySort" : 50,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 51,
+    "CityName" : "齐齐哈尔市",
+    "CitySort" : 51,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 52,
+    "CityName" : "鸡西市",
+    "CitySort" : 52,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 53,
+    "CityName" : "牡丹江市",
+    "CitySort" : 53,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 54,
+    "CityName" : "七台河市",
+    "CitySort" : 54,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 55,
+    "CityName" : "佳木斯市",
+    "CitySort" : 55,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 56,
+    "CityName" : "鹤岗市",
+    "CitySort" : 56,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 57,
+    "CityName" : "双鸭山市",
+    "CitySort" : 57,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 58,
+    "CityName" : "绥化市",
+    "CitySort" : 58,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 59,
+    "CityName" : "黑河市",
+    "CitySort" : 59,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 60,
+    "CityName" : "大兴安岭地区",
+    "CitySort" : 60,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 61,
+    "CityName" : "伊春市",
+    "CitySort" : 61,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 62,
+    "CityName" : "大庆市",
+    "CitySort" : 62,
+    "ProID" : 8
+  },
+  {
+    "CityID" : 63,
+    "CityName" : "南京市",
+    "CitySort" : 63,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 64,
+    "CityName" : "无锡市",
+    "CitySort" : 64,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 65,
+    "CityName" : "镇江市",
+    "CitySort" : 65,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 66,
+    "CityName" : "苏州市",
+    "CitySort" : 66,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 67,
+    "CityName" : "南通市",
+    "CitySort" : 67,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 68,
+    "CityName" : "扬州市",
+    "CitySort" : 68,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 69,
+    "CityName" : "盐城市",
+    "CitySort" : 69,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 70,
+    "CityName" : "徐州市",
+    "CitySort" : 70,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 71,
+    "CityName" : "淮安市",
+    "CitySort" : 71,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 72,
+    "CityName" : "连云港市",
+    "CitySort" : 72,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 73,
+    "CityName" : "常州市",
+    "CitySort" : 73,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 74,
+    "CityName" : "泰州市",
+    "CitySort" : 74,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 75,
+    "CityName" : "宿迁市",
+    "CitySort" : 75,
+    "ProID" : 10
+  },
+  {
+    "CityID" : 76,
+    "CityName" : "舟山市",
+    "CitySort" : 76,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 77,
+    "CityName" : "衢州市",
+    "CitySort" : 77,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 78,
+    "CityName" : "杭州市",
+    "CitySort" : 78,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 79,
+    "CityName" : "湖州市",
+    "CitySort" : 79,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 80,
+    "CityName" : "嘉兴市",
+    "CitySort" : 80,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 81,
+    "CityName" : "宁波市",
+    "CitySort" : 81,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 82,
+    "CityName" : "绍兴市",
+    "CitySort" : 82,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 83,
+    "CityName" : "温州市",
+    "CitySort" : 83,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 84,
+    "CityName" : "丽水市",
+    "CitySort" : 84,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 85,
+    "CityName" : "金华市",
+    "CitySort" : 85,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 86,
+    "CityName" : "台州市",
+    "CitySort" : 86,
+    "ProID" : 11
+  },
+  {
+    "CityID" : 87,
+    "CityName" : "合肥市",
+    "CitySort" : 87,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 88,
+    "CityName" : "芜湖市",
+    "CitySort" : 88,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 89,
+    "CityName" : "蚌埠市",
+    "CitySort" : 89,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 90,
+    "CityName" : "淮南市",
+    "CitySort" : 90,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 91,
+    "CityName" : "马鞍山市",
+    "CitySort" : 91,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 92,
+    "CityName" : "淮北市",
+    "CitySort" : 92,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 93,
+    "CityName" : "铜陵市",
+    "CitySort" : 93,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 94,
+    "CityName" : "安庆市",
+    "CitySort" : 94,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 95,
+    "CityName" : "黄山市",
+    "CitySort" : 95,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 96,
+    "CityName" : "滁州市",
+    "CitySort" : 96,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 97,
+    "CityName" : "阜阳市",
+    "CitySort" : 97,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 98,
+    "CityName" : "宿州市",
+    "CitySort" : 98,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 99,
+    "CityName" : "巢湖市",
+    "CitySort" : 99,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 100,
+    "CityName" : "六安市",
+    "CitySort" : 100,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 101,
+    "CityName" : "亳州市",
+    "CitySort" : 101,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 102,
+    "CityName" : "池州市",
+    "CitySort" : 102,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 103,
+    "CityName" : "宣城市",
+    "CitySort" : 103,
+    "ProID" : 12
+  },
+  {
+    "CityID" : 104,
+    "CityName" : "福州市",
+    "CitySort" : 104,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 105,
+    "CityName" : "厦门市",
+    "CitySort" : 105,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 106,
+    "CityName" : "宁德市",
+    "CitySort" : 106,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 107,
+    "CityName" : "莆田市",
+    "CitySort" : 107,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 108,
+    "CityName" : "泉州市",
+    "CitySort" : 108,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 109,
+    "CityName" : "漳州市",
+    "CitySort" : 109,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 110,
+    "CityName" : "龙岩市",
+    "CitySort" : 110,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 111,
+    "CityName" : "三明市",
+    "CitySort" : 111,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 112,
+    "CityName" : "南平市",
+    "CitySort" : 112,
+    "ProID" : 13
+  },
+  {
+    "CityID" : 113,
+    "CityName" : "鹰潭市",
+    "CitySort" : 113,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 114,
+    "CityName" : "新余市",
+    "CitySort" : 114,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 115,
+    "CityName" : "南昌市",
+    "CitySort" : 115,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 116,
+    "CityName" : "九江市",
+    "CitySort" : 116,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 117,
+    "CityName" : "上饶市",
+    "CitySort" : 117,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 118,
+    "CityName" : "抚州市",
+    "CitySort" : 118,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 119,
+    "CityName" : "宜春市",
+    "CitySort" : 119,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 120,
+    "CityName" : "吉安市",
+    "CitySort" : 120,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 121,
+    "CityName" : "赣州市",
+    "CitySort" : 121,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 122,
+    "CityName" : "景德镇市",
+    "CitySort" : 122,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 123,
+    "CityName" : "萍乡市",
+    "CitySort" : 123,
+    "ProID" : 14
+  },
+  {
+    "CityID" : 124,
+    "CityName" : "菏泽市",
+    "CitySort" : 124,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 125,
+    "CityName" : "济南市",
+    "CitySort" : 125,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 126,
+    "CityName" : "青岛市",
+    "CitySort" : 126,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 127,
+    "CityName" : "淄博市",
+    "CitySort" : 127,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 128,
+    "CityName" : "德州市",
+    "CitySort" : 128,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 129,
+    "CityName" : "烟台市",
+    "CitySort" : 129,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 130,
+    "CityName" : "潍坊市",
+    "CitySort" : 130,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 131,
+    "CityName" : "济宁市",
+    "CitySort" : 131,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 132,
+    "CityName" : "泰安市",
+    "CitySort" : 132,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 133,
+    "CityName" : "临沂市",
+    "CitySort" : 133,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 134,
+    "CityName" : "滨州市",
+    "CitySort" : 134,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 135,
+    "CityName" : "东营市",
+    "CitySort" : 135,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 136,
+    "CityName" : "威海市",
+    "CitySort" : 136,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 137,
+    "CityName" : "枣庄市",
+    "CitySort" : 137,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 138,
+    "CityName" : "日照市",
+    "CitySort" : 138,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 139,
+    "CityName" : "莱芜市",
+    "CitySort" : 139,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 140,
+    "CityName" : "聊城市",
+    "CitySort" : 140,
+    "ProID" : 15
+  },
+  {
+    "CityID" : 141,
+    "CityName" : "商丘市",
+    "CitySort" : 141,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 142,
+    "CityName" : "郑州市",
+    "CitySort" : 142,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 143,
+    "CityName" : "安阳市",
+    "CitySort" : 143,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 144,
+    "CityName" : "新乡市",
+    "CitySort" : 144,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 145,
+    "CityName" : "许昌市",
+    "CitySort" : 145,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 146,
+    "CityName" : "平顶山市",
+    "CitySort" : 146,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 147,
+    "CityName" : "信阳市",
+    "CitySort" : 147,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 148,
+    "CityName" : "南阳市",
+    "CitySort" : 148,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 149,
+    "CityName" : "开封市",
+    "CitySort" : 149,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 150,
+    "CityName" : "洛阳市",
+    "CitySort" : 150,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 151,
+    "CityName" : "济源市",
+    "CitySort" : 151,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 152,
+    "CityName" : "焦作市",
+    "CitySort" : 152,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 153,
+    "CityName" : "鹤壁市",
+    "CitySort" : 153,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 154,
+    "CityName" : "濮阳市",
+    "CitySort" : 154,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 155,
+    "CityName" : "周口市",
+    "CitySort" : 155,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 156,
+    "CityName" : "漯河市",
+    "CitySort" : 156,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 157,
+    "CityName" : "驻马店市",
+    "CitySort" : 157,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 158,
+    "CityName" : "三门峡市",
+    "CitySort" : 158,
+    "ProID" : 16
+  },
+  {
+    "CityID" : 159,
+    "CityName" : "武汉市",
+    "CitySort" : 159,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 160,
+    "CityName" : "襄樊市",
+    "CitySort" : 160,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 161,
+    "CityName" : "鄂州市",
+    "CitySort" : 161,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 162,
+    "CityName" : "孝感市",
+    "CitySort" : 162,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 163,
+    "CityName" : "黄冈市",
+    "CitySort" : 163,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 164,
+    "CityName" : "黄石市",
+    "CitySort" : 164,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 165,
+    "CityName" : "咸宁市",
+    "CitySort" : 165,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 166,
+    "CityName" : "荆州市",
+    "CitySort" : 166,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 167,
+    "CityName" : "宜昌市",
+    "CitySort" : 167,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 168,
+    "CityName" : "恩施土家族苗族自治州",
+    "CitySort" : 168,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 169,
+    "CityName" : "神农架林区",
+    "CitySort" : 169,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 170,
+    "CityName" : "十堰市",
+    "CitySort" : 170,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 171,
+    "CityName" : "随州市",
+    "CitySort" : 171,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 172,
+    "CityName" : "荆门市",
+    "CitySort" : 172,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 173,
+    "CityName" : "仙桃市",
+    "CitySort" : 173,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 174,
+    "CityName" : "天门市",
+    "CitySort" : 174,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 175,
+    "CityName" : "潜江市",
+    "CitySort" : 175,
+    "ProID" : 17
+  },
+  {
+    "CityID" : 176,
+    "CityName" : "岳阳市",
+    "CitySort" : 176,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 177,
+    "CityName" : "长沙市",
+    "CitySort" : 177,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 178,
+    "CityName" : "湘潭市",
+    "CitySort" : 178,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 179,
+    "CityName" : "株洲市",
+    "CitySort" : 179,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 180,
+    "CityName" : "衡阳市",
+    "CitySort" : 180,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 181,
+    "CityName" : "郴州市",
+    "CitySort" : 181,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 182,
+    "CityName" : "常德市",
+    "CitySort" : 182,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 183,
+    "CityName" : "益阳市",
+    "CitySort" : 183,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 184,
+    "CityName" : "娄底市",
+    "CitySort" : 184,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 185,
+    "CityName" : "邵阳市",
+    "CitySort" : 185,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 186,
+    "CityName" : "湘西土家族苗族自治州",
+    "CitySort" : 186,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 187,
+    "CityName" : "张家界市",
+    "CitySort" : 187,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 188,
+    "CityName" : "怀化市",
+    "CitySort" : 188,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 189,
+    "CityName" : "永州市",
+    "CitySort" : 189,
+    "ProID" : 18
+  },
+  {
+    "CityID" : 190,
+    "CityName" : "广州市",
+    "CitySort" : 190,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 191,
+    "CityName" : "汕尾市",
+    "CitySort" : 191,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 192,
+    "CityName" : "阳江市",
+    "CitySort" : 192,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 193,
+    "CityName" : "揭阳市",
+    "CitySort" : 193,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 194,
+    "CityName" : "茂名市",
+    "CitySort" : 194,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 195,
+    "CityName" : "惠州市",
+    "CitySort" : 195,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 196,
+    "CityName" : "江门市",
+    "CitySort" : 196,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 197,
+    "CityName" : "韶关市",
+    "CitySort" : 197,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 198,
+    "CityName" : "梅州市",
+    "CitySort" : 198,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 199,
+    "CityName" : "汕头市",
+    "CitySort" : 199,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 200,
+    "CityName" : "深圳市",
+    "CitySort" : 200,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 201,
+    "CityName" : "珠海市",
+    "CitySort" : 201,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 202,
+    "CityName" : "佛山市",
+    "CitySort" : 202,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 203,
+    "CityName" : "肇庆市",
+    "CitySort" : 203,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 204,
+    "CityName" : "湛江市",
+    "CitySort" : 204,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 205,
+    "CityName" : "中山市",
+    "CitySort" : 205,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 206,
+    "CityName" : "河源市",
+    "CitySort" : 206,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 207,
+    "CityName" : "清远市",
+    "CitySort" : 207,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 208,
+    "CityName" : "云浮市",
+    "CitySort" : 208,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 209,
+    "CityName" : "潮州市",
+    "CitySort" : 209,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 210,
+    "CityName" : "东莞市",
+    "CitySort" : 210,
+    "ProID" : 19
+  },
+  {
+    "CityID" : 211,
+    "CityName" : "兰州市",
+    "CitySort" : 211,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 212,
+    "CityName" : "金昌市",
+    "CitySort" : 212,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 213,
+    "CityName" : "白银市",
+    "CitySort" : 213,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 214,
+    "CityName" : "天水市",
+    "CitySort" : 214,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 215,
+    "CityName" : "嘉峪关市",
+    "CitySort" : 215,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 216,
+    "CityName" : "武威市",
+    "CitySort" : 216,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 217,
+    "CityName" : "张掖市",
+    "CitySort" : 217,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 218,
+    "CityName" : "平凉市",
+    "CitySort" : 218,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 219,
+    "CityName" : "酒泉市",
+    "CitySort" : 219,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 220,
+    "CityName" : "庆阳市",
+    "CitySort" : 220,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 221,
+    "CityName" : "定西市",
+    "CitySort" : 221,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 222,
+    "CityName" : "陇南市",
+    "CitySort" : 222,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 223,
+    "CityName" : "临夏回族自治州",
+    "CitySort" : 223,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 224,
+    "CityName" : "甘南藏族自治州",
+    "CitySort" : 224,
+    "ProID" : 22
+  },
+  {
+    "CityID" : 225,
+    "CityName" : "成都市",
+    "CitySort" : 225,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 226,
+    "CityName" : "攀枝花市",
+    "CitySort" : 226,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 227,
+    "CityName" : "自贡市",
+    "CitySort" : 227,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 228,
+    "CityName" : "绵阳市",
+    "CitySort" : 228,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 229,
+    "CityName" : "南充市",
+    "CitySort" : 229,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 230,
+    "CityName" : "达州市",
+    "CitySort" : 230,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 231,
+    "CityName" : "遂宁市",
+    "CitySort" : 231,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 232,
+    "CityName" : "广安市",
+    "CitySort" : 232,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 233,
+    "CityName" : "巴中市",
+    "CitySort" : 233,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 234,
+    "CityName" : "泸州市",
+    "CitySort" : 234,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 235,
+    "CityName" : "宜宾市",
+    "CitySort" : 235,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 236,
+    "CityName" : "资阳市",
+    "CitySort" : 236,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 237,
+    "CityName" : "内江市",
+    "CitySort" : 237,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 238,
+    "CityName" : "乐山市",
+    "CitySort" : 238,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 239,
+    "CityName" : "眉山市",
+    "CitySort" : 239,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 240,
+    "CityName" : "凉山彝族自治州",
+    "CitySort" : 240,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 241,
+    "CityName" : "雅安市",
+    "CitySort" : 241,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 242,
+    "CityName" : "甘孜藏族自治州",
+    "CitySort" : 242,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 243,
+    "CityName" : "阿坝藏族羌族自治州",
+    "CitySort" : 243,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 244,
+    "CityName" : "德阳市",
+    "CitySort" : 244,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 245,
+    "CityName" : "广元市",
+    "CitySort" : 245,
+    "ProID" : 28
+  },
+  {
+    "CityID" : 246,
+    "CityName" : "贵阳市",
+    "CitySort" : 246,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 247,
+    "CityName" : "遵义市",
+    "CitySort" : 247,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 248,
+    "CityName" : "安顺市",
+    "CitySort" : 248,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 249,
+    "CityName" : "黔南布依族苗族自治州",
+    "CitySort" : 249,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 250,
+    "CityName" : "黔东南苗族侗族自治州",
+    "CitySort" : 250,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 251,
+    "CityName" : "铜仁地区",
+    "CitySort" : 251,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 252,
+    "CityName" : "毕节地区",
+    "CitySort" : 252,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 253,
+    "CityName" : "六盘水市",
+    "CitySort" : 253,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 254,
+    "CityName" : "黔西南布依族苗族自治州",
+    "CitySort" : 254,
+    "ProID" : 29
+  },
+  {
+    "CityID" : 255,
+    "CityName" : "海口市",
+    "CitySort" : 255,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 256,
+    "CityName" : "三亚市",
+    "CitySort" : 256,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 257,
+    "CityName" : "五指山市",
+    "CitySort" : 257,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 258,
+    "CityName" : "琼海市",
+    "CitySort" : 258,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 259,
+    "CityName" : "儋州市",
+    "CitySort" : 259,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 260,
+    "CityName" : "文昌市",
+    "CitySort" : 260,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 261,
+    "CityName" : "万宁市",
+    "CitySort" : 261,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 262,
+    "CityName" : "东方市",
+    "CitySort" : 262,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 263,
+    "CityName" : "澄迈县",
+    "CitySort" : 263,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 264,
+    "CityName" : "定安县",
+    "CitySort" : 264,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 265,
+    "CityName" : "屯昌县",
+    "CitySort" : 265,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 266,
+    "CityName" : "临高县",
+    "CitySort" : 266,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 267,
+    "CityName" : "白沙黎族自治县",
+    "CitySort" : 267,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 268,
+    "CityName" : "昌江黎族自治县",
+    "CitySort" : 268,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 269,
+    "CityName" : "乐东黎族自治县",
+    "CitySort" : 269,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 270,
+    "CityName" : "陵水黎族自治县",
+    "CitySort" : 270,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 271,
+    "CityName" : "保亭黎族苗族自治县",
+    "CitySort" : 271,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 272,
+    "CityName" : "琼中黎族苗族自治县",
+    "CitySort" : 272,
+    "ProID" : 20
+  },
+  {
+    "CityID" : 273,
+    "CityName" : "西双版纳傣族自治州",
+    "CitySort" : 273,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 274,
+    "CityName" : "德宏傣族景颇族自治州",
+    "CitySort" : 274,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 275,
+    "CityName" : "昭通市",
+    "CitySort" : 275,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 276,
+    "CityName" : "昆明市",
+    "CitySort" : 276,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 277,
+    "CityName" : "大理白族自治州",
+    "CitySort" : 277,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 278,
+    "CityName" : "红河哈尼族彝族自治州",
+    "CitySort" : 278,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 279,
+    "CityName" : "曲靖市",
+    "CitySort" : 279,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 280,
+    "CityName" : "保山市",
+    "CitySort" : 280,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 281,
+    "CityName" : "文山壮族苗族自治州",
+    "CitySort" : 281,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 282,
+    "CityName" : "玉溪市",
+    "CitySort" : 282,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 283,
+    "CityName" : "楚雄彝族自治州",
+    "CitySort" : 283,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 284,
+    "CityName" : "普洱市",
+    "CitySort" : 284,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 285,
+    "CityName" : "临沧市",
+    "CitySort" : 285,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 286,
+    "CityName" : "怒江傈傈族自治州",
+    "CitySort" : 286,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 287,
+    "CityName" : "迪庆藏族自治州",
+    "CitySort" : 287,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 288,
+    "CityName" : "丽江市",
+    "CitySort" : 288,
+    "ProID" : 30
+  },
+  {
+    "CityID" : 289,
+    "CityName" : "海北藏族自治州",
+    "CitySort" : 289,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 290,
+    "CityName" : "西宁市",
+    "CitySort" : 290,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 291,
+    "CityName" : "海东地区",
+    "CitySort" : 291,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 292,
+    "CityName" : "黄南藏族自治州",
+    "CitySort" : 292,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 293,
+    "CityName" : "海南藏族自治州",
+    "CitySort" : 293,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 294,
+    "CityName" : "果洛藏族自治州",
+    "CitySort" : 294,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 295,
+    "CityName" : "玉树藏族自治州",
+    "CitySort" : 295,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 296,
+    "CityName" : "海西蒙古族藏族自治州",
+    "CitySort" : 296,
+    "ProID" : 25
+  },
+  {
+    "CityID" : 297,
+    "CityName" : "西安市",
+    "CitySort" : 297,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 298,
+    "CityName" : "咸阳市",
+    "CitySort" : 298,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 299,
+    "CityName" : "延安市",
+    "CitySort" : 299,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 300,
+    "CityName" : "榆林市",
+    "CitySort" : 300,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 301,
+    "CityName" : "渭南市",
+    "CitySort" : 301,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 302,
+    "CityName" : "商洛市",
+    "CitySort" : 302,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 303,
+    "CityName" : "安康市",
+    "CitySort" : 303,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 304,
+    "CityName" : "汉中市",
+    "CitySort" : 304,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 305,
+    "CityName" : "宝鸡市",
+    "CitySort" : 305,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 306,
+    "CityName" : "铜川市",
+    "CitySort" : 306,
+    "ProID" : 23
+  },
+  {
+    "CityID" : 307,
+    "CityName" : "防城港市",
+    "CitySort" : 307,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 308,
+    "CityName" : "南宁市",
+    "CitySort" : 308,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 309,
+    "CityName" : "崇左市",
+    "CitySort" : 309,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 310,
+    "CityName" : "来宾市",
+    "CitySort" : 310,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 311,
+    "CityName" : "柳州市",
+    "CitySort" : 311,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 312,
+    "CityName" : "桂林市",
+    "CitySort" : 312,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 313,
+    "CityName" : "梧州市",
+    "CitySort" : 313,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 314,
+    "CityName" : "贺州市",
+    "CitySort" : 314,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 315,
+    "CityName" : "贵港市",
+    "CitySort" : 315,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 316,
+    "CityName" : "玉林市",
+    "CitySort" : 316,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 317,
+    "CityName" : "百色市",
+    "CitySort" : 317,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 318,
+    "CityName" : "钦州市",
+    "CitySort" : 318,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 319,
+    "CityName" : "河池市",
+    "CitySort" : 319,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 320,
+    "CityName" : "北海市",
+    "CitySort" : 320,
+    "ProID" : 21
+  },
+  {
+    "CityID" : 321,
+    "CityName" : "拉萨市",
+    "CitySort" : 321,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 322,
+    "CityName" : "日喀则地区",
+    "CitySort" : 322,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 323,
+    "CityName" : "山南地区",
+    "CitySort" : 323,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 324,
+    "CityName" : "林芝地区",
+    "CitySort" : 324,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 325,
+    "CityName" : "昌都地区",
+    "CitySort" : 325,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 326,
+    "CityName" : "那曲地区",
+    "CitySort" : 326,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 327,
+    "CityName" : "阿里地区",
+    "CitySort" : 327,
+    "ProID" : 31
+  },
+  {
+    "CityID" : 328,
+    "CityName" : "银川市",
+    "CitySort" : 328,
+    "ProID" : 26
+  },
+  {
+    "CityID" : 329,
+    "CityName" : "石嘴山市",
+    "CitySort" : 329,
+    "ProID" : 26
+  },
+  {
+    "CityID" : 330,
+    "CityName" : "吴忠市",
+    "CitySort" : 330,
+    "ProID" : 26
+  },
+  {
+    "CityID" : 331,
+    "CityName" : "固原市",
+    "CitySort" : 331,
+    "ProID" : 26
+  },
+  {
+    "CityID" : 332,
+    "CityName" : "中卫市",
+    "CitySort" : 332,
+    "ProID" : 26
+  },
+  {
+    "CityID" : 333,
+    "CityName" : "塔城地区",
+    "CitySort" : 333,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 334,
+    "CityName" : "哈密地区",
+    "CitySort" : 334,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 335,
+    "CityName" : "和田地区",
+    "CitySort" : 335,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 336,
+    "CityName" : "阿勒泰地区",
+    "CitySort" : 336,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 337,
+    "CityName" : "克孜勒苏柯尔克孜自治州",
+    "CitySort" : 337,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 338,
+    "CityName" : "博尔塔拉蒙古自治州",
+    "CitySort" : 338,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 339,
+    "CityName" : "克拉玛依市",
+    "CitySort" : 339,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 340,
+    "CityName" : "乌鲁木齐市",
+    "CitySort" : 340,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 341,
+    "CityName" : "石河子市",
+    "CitySort" : 341,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 342,
+    "CityName" : "昌吉回族自治州",
+    "CitySort" : 342,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 343,
+    "CityName" : "五家渠市",
+    "CitySort" : 343,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 344,
+    "CityName" : "吐鲁番地区",
+    "CitySort" : 344,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 345,
+    "CityName" : "巴音郭楞蒙古自治州",
+    "CitySort" : 345,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 346,
+    "CityName" : "阿克苏地区",
+    "CitySort" : 346,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 347,
+    "CityName" : "阿拉尔市",
+    "CitySort" : 347,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 348,
+    "CityName" : "喀什地区",
+    "CitySort" : 348,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 349,
+    "CityName" : "图木舒克市",
+    "CitySort" : 349,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 350,
+    "CityName" : "伊犁哈萨克自治州",
+    "CitySort" : 350,
+    "ProID" : 24
+  },
+  {
+    "CityID" : 351,
+    "CityName" : "呼伦贝尔市",
+    "CitySort" : 351,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 352,
+    "CityName" : "呼和浩特市",
+    "CitySort" : 352,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 353,
+    "CityName" : "包头市",
+    "CitySort" : 353,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 354,
+    "CityName" : "乌海市",
+    "CitySort" : 354,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 355,
+    "CityName" : "乌兰察布市",
+    "CitySort" : 355,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 356,
+    "CityName" : "通辽市",
+    "CitySort" : 356,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 357,
+    "CityName" : "赤峰市",
+    "CitySort" : 357,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 358,
+    "CityName" : "鄂尔多斯市",
+    "CitySort" : 358,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 359,
+    "CityName" : "巴彦淖尔市",
+    "CitySort" : 359,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 360,
+    "CityName" : "锡林郭勒盟",
+    "CitySort" : 360,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 361,
+    "CityName" : "兴安盟",
+    "CitySort" : 361,
+    "ProID" : 5
+  },
+  {
+    "CityID" : 362,
+    "CityName" : "阿拉善盟",
+    "CitySort" : 362,
+    "ProID" : 5
+  }
+]
